@@ -1,4 +1,4 @@
-//Mathematical Rose Patterns
+//Mathematical Rose Patterns made using wikipedia notes
 let d = 6;
 let n = 7;
 
